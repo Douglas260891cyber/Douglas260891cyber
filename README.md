@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou aprendendo Delphi, Java e Spring... 
 - 📫 Como chegar até mim? E-mail: douglas.moro@unchapeco.edu.br / Linkedin: https://www.linkedin.com/in/douglas-moro-9570021a9/
 
-<div align="display: inline_block">
+<div align="center">
   <a href="https://github.com/Douglas260891cyber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Douglas260891cyber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas260891cyber&layout=compact&langs_count=7&theme=dracula"/>
