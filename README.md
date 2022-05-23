@@ -1,4 +1,4 @@
-### Olá! Eu sou o Douglas Moro. Que bom vê-lo por aqui... 👋
+### Olá! Eu meu nome é Douglas Moro. Que bom vê-lo por aqui... 👋
 
 - 🔭 Atualmente estou estagiando em uma empresa de tecnologia... que por sinal é muito bacana! 
 - 🌱 Atualmente estou aprendendo Delphi, Java e Spring... 
@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Douglas260891cyber">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Douglas260891cyber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas260891cyber&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Douglas260891cyber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas260891cyber&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
