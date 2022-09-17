@@ -1,6 +1,6 @@
 ### Olá! Eu meu nome é Douglas Moro. Que bom vê-lo por aqui... 👋
 
-- 🔭 Atualmente estou estagiando em uma empresa de tecnologia... que por sinal é muito bacana! 
+- 🔭 Atualmente estou trabalhando com Java/Spring Framework em uma empresa de tecnologia... que por sinal é muito bacana! 
 - 🌱 Atualmente estou aprendendo Delphi, Java e Spring... 
 - 📫 Como chegar até mim? E-mail: douglas.moro@unchapeco.edu.br / Linkedin: https://www.linkedin.com/in/douglas-moro-9570021a9/
 
