@@ -1,8 +1,16 @@
-### Olá! Eu meu nome é Douglas Moro. Que bom vê-lo por aqui... 👋
+👋 Olá, eu sou o Douglas Moro!
 
-- 🔭 Atualmente estou trabalhando com Java/Spring Framework em uma empresa de tecnologia... Que por sinal é muito bacana! 
-- 🌱 Atualmente estou aprendendo Java e Spring Framework. 
-- 📫 Como chegar até mim? E-mail: douglas.moro@unchapeco.edu.br / Linkedin: https://www.linkedin.com/in/douglas-moro-9570021a9/
+💻 Programador Java apaixonado por criar soluções elegantes e eficientes. Com uma, ainda pequena, experiência em desenvolvimento de software, estou sempre em busca de desafios que me permitam aprimorar minhas habilidades e contribuir para projetos incríveis.
+
+🚀 Atualmente, estou explorando as maravilhas do ecossistema Java, desde desenvolvimento de aplicativos para desktop até aplicações web. Estou constantemente aprendendo e acompanhando as mais recentes tendências e melhores práticas em programação.
+
+🌐 Além do Java, também tenho interesse em outras tecnologias como Spring Framework, Hibernate, Git, e muito mais. Sempre aberto a colaborações e novas oportunidades, então não hesite em entrar em contato comigo!
+
+📫 Você pode me encontrar aqui no GitHub, onde compartilho projetos pessoais e contribuições para a comunidade de código aberto. Vamos programar juntos e criar um futuro digital incrível!
+
+📬 Entre em contato:
+📧 Email: douglas.moro@unochapeco.edu.br
+🔗 LinkedIn: https://www.linkedin.com/in/douglas-moro/
 
 <div align="center">
   <a href="https://github.com/Douglas260891cyber">
