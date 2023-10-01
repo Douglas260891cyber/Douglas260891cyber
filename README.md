@@ -8,13 +8,9 @@
 
 📫 Você pode me encontrar aqui no GitHub, onde compartilho projetos pessoais e contribuições para a comunidade de código aberto. Vamos programar juntos e criar um futuro digital incrível!
 
-#
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/douglas_moro/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](douglas.moro@unochapeco.edu.br)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/douglas-moro/)
-
-#
+📬 Entre em contato:
+📧 Email: douglas.moro@unochapeco.edu.br
+🔗 LinkedIn: https://www.linkedin.com/in/douglas-moro/
 
 <div align="center">
   <a href="https://github.com/Douglas260891cyber">
