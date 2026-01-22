@@ -1,10 +1,10 @@
 👋 Olá, eu sou o Douglas Moro!
 
-💻 Programador Java apaixonado por criar soluções elegantes e eficientes. Com uma, ainda pequena, experiência em desenvolvimento de software, estou sempre em busca de desafios que me permitam aprimorar minhas habilidades e contribuir para projetos incríveis.
+💻 Assistente de Desenvolvimento Júnior com uma, ainda pequena, experiência em desenvolvimento de software, estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos.
 
 🚀 Atualmente, estou explorando as maravilhas do ecossistema Java, desde desenvolvimento de aplicativos para desktop até aplicações web. Estou constantemente aprendendo e acompanhando as mais recentes tendências e melhores práticas em programação.
 
-🌐 Além do Java, também tenho interesse em outras tecnologias como Spring Framework, Hibernate, Git, e muito mais. Sempre aberto a colaborações e novas oportunidades, então não hesite em entrar em contato comigo!
+🌐 Além do Java, também tenho interesse em outras tecnologias como Spring Framework, JS, Git, e muito mais. Sempre aberto a colaborações e novas oportunidades, então não hesite em entrar em contato comigo!
 
 📫 Você pode me encontrar aqui no GitHub, onde compartilho projetos pessoais e contribuições para a comunidade de código aberto. Vamos programar juntos e criar um futuro digital incrível!
 
