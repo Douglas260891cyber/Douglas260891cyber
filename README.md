@@ -1,8 +1,8 @@
-## 👋 Olá, eu sou o Douglas Moro
+## 👋 Douglas Moro | Desenvolvedor Java Back-end Júnior
 
 💼 **Desenvolvedor Java Back-end Júnior**  
-Apaixonado por tecnologia, aprendizado contínuo e boas práticas de desenvolvimento.  
-Atualmente construo minha carreira com foco em **Java e desenvolvimento back-end**, buscando oportunidades para crescer profissionalmente e contribuir com soluções eficientes e bem estruturadas.
+Focado em desenvolvimento de aplicações back-end com **Java e Spring**, aplicando boas práticas, organização de código e aprendizado contínuo.  
+Busco minha primeira oportunidade na área para evoluir tecnicamente e contribuir com soluções bem estruturadas.
 
 ---
 
@@ -16,7 +16,7 @@ Atualmente construo minha carreira com foco em **Java e desenvolvimento back-end
 
 ### 🛠️ Stack Principal
 - **Linguagem:** Java  
-- **Frameworks:** Spring Framework  
+- **Frameworks:** Spring (Spring Boot, Spring MVC)
 - **Banco de Dados:** PostgreSQL  
 - **Versionamento:** Git & GitHub  
 - **Front-end (apoio):** HTML, CSS, JavaScript  
@@ -24,12 +24,12 @@ Atualmente construo minha carreira com foco em **Java e desenvolvimento back-end
 
 ---
 
-### ⭐ Projeto(s) em Destaque
-📌 *Alguns projetos que representam minha evolução técnica:*
+### ⭐ Projetos em Destaque
 
 - 🎨 **Projeto Fundo Mágico**  
-  Sistema que gera animações de background automaticamente utilizando **HTML, CSS, JavaScript e IA**.  
-  🔗 Repositório: https://github.com/Douglas260891cyber/Projeto-Fundo-Magico
+  Sistema que gera animações de background de forma automática utilizando **HTML, CSS, JavaScript e IA**, com foco em criatividade e automação.  
+  🔗 **Repositório:** https://github.com/Douglas260891cyber/Projeto-Fundo-Magico
+
 
 *(Outros projetos podem ser encontrados nos repositórios públicos do perfil)*
 
