@@ -35,12 +35,14 @@ Atualmente construo minha carreira com foco em **Java e desenvolvimento back-end
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/Douglas260891cyber">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Douglas260891cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas260891cyber&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+
+![Douglas GitHub Stats](https://github-readme-stats.vercel.app/api?username=Douglas260891cyber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas260891cyber&layout=compact&theme=dracula)
+
 </div>
 
 ---
